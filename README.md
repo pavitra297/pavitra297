@@ -16,13 +16,13 @@
 ## 📊 GitHub Stats:
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=pavitra297&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="300px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pavitra297&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="390px" />
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pavitra297&theme=dark&hide_border=false" alt="GitHub Streak" width="300px" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pavitra297&theme=dark&hide_border=false" alt="GitHub Streak" width="390px" />
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavitra297&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavitra297&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400px"/>
 
 </div>
 
