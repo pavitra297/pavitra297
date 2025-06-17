@@ -14,11 +14,18 @@
   </p>
   
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pavitra297&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=pavitra297&theme=dark&hide_border=false)<br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavitra297&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="stats">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=pavitra297&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="180em" />
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pavitra297&theme=dark&hide_border=false" alt="GitHub Streak" width="180em" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavitra297&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+
 </div>
+
 
 ## Let's Connect
 
