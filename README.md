@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hey! I'm Pavitra Jasti</h1>
 
-<!--
-**pavitra297/pavitra297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 3rd year B.Tech student in Computer Science & Engineering  
+- 💻 MERN Stack Developer (MongoDB, Express.js, React.js, Node.js)  
+- 🤝 Open to collaboration on open-source and real-world projects  
+- 📚 Currently learning Next.js, advanced MongoDB, and deployment tools
 
-Here are some ideas to get you started:
+## Languages and Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,bootstrap,tailwind,react,mongodb,nodejs,express,git,github,postman,vscode,figma" alt="Programming Languages"/>
+  </a>
+  </p>
+  
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pavitra297&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=pavitra297&theme=dark&hide_border=false)<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavitra297&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="stats">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pavitra-jasti-2684b5287/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
